@@ -1,0 +1,8 @@
+setup.py
+mirror_sdk/__init__.py
+mirror_sdk/client.py
+mirror_sdk.egg-info/PKG-INFO
+mirror_sdk.egg-info/SOURCES.txt
+mirror_sdk.egg-info/dependency_links.txt
+mirror_sdk.egg-info/requires.txt
+mirror_sdk.egg-info/top_level.txt

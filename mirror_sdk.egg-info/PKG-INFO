@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mirror_sdk
+Version: 0.1.0
+Summary: Python SDK for Mirror Chat API
+Author: Mirror Team
+Requires-Python: >=3.7
+Requires-Dist: requests>=2.25.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
