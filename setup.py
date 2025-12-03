@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mirror_sdk",
-    version="0.1.0",
+    name="mirrorsdk",
+    version="0.1.2",
     packages=find_packages(),
     install_requires=[
         "requests>=2.25.0",
